@@ -1,4 +1,4 @@
 # dr-estranho
 
 
-https://valmirdeveloper.github.io/dr-estranho/
+https://valmirdeveloper.github.io/doutor-estranho/
